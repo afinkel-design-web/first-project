@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    gap: 20px;
+    padding: 24px 120px;
+    background-color: black;
+    color: aliceblue;
+}
+
+.header-items {
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
