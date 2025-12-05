@@ -4,10 +4,19 @@
     padding: 24px 120px;
     background-color: black;
     color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
 }
 
 .header-items {
     display: flex;
     gap: 40px;
     list-style: none;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;background-color: blue;
+    border-radius: 64px;
 }
